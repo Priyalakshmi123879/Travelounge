@@ -676,7 +676,7 @@ export default function App() {
   };
 
   return (
-    <BrowserRouter>
+    <BrowserRouter base="/Travelounge/">
 
       <div className="min-h-screen bg-gradient-to-br from-rose-50 via-white to-orange-50 text-gray-800">
 
